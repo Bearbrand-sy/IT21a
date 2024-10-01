@@ -26,6 +26,7 @@ class Person {
     }
 }
 
+
 class Student extends Person {
 
   constructor(name, age, occupation, major) {
