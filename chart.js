@@ -39,7 +39,5 @@ const config = {
     },
 };
 
-const myChart = new Chart(
-    document.getElementById('myChart'),
-    config
+const myChart = new Chart( document.getElementById('myChart'), config
 );
